@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/master-rotation/static/css/main.2cce8147.chunk.css",
+    "main.js": "/master-rotation/static/js/main.10965110.chunk.js",
+    "main.js.map": "/master-rotation/static/js/main.10965110.chunk.js.map",
+    "runtime~main.js": "/master-rotation/static/js/runtime~main.be8f6e93.js",
+    "runtime~main.js.map": "/master-rotation/static/js/runtime~main.be8f6e93.js.map",
+    "static/js/2.50271717.chunk.js": "/master-rotation/static/js/2.50271717.chunk.js",
+    "static/js/2.50271717.chunk.js.map": "/master-rotation/static/js/2.50271717.chunk.js.map",
+    "index.html": "/master-rotation/index.html",
+    "precache-manifest.214b62aabf1b56799f125de65e419f97.js": "/master-rotation/precache-manifest.214b62aabf1b56799f125de65e419f97.js",
+    "service-worker.js": "/master-rotation/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/master-rotation/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/master-rotation/static/media/logo.5d5d9eef.svg"
+  }
+}
